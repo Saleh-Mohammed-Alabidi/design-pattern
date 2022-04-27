@@ -5,11 +5,12 @@ This project is about to give hands-on implementation examples of the Gang Of Fo
 ![design-patterns-updated](https://user-images.githubusercontent.com/104224613/165622368-7c15963c-749e-4b5e-9a8b-cb5fe6038ea3.png)
 
 ## Creational Patterns
--  [Singleton](https://breakdance.github.io/breakdance/)
--  [Prototype](https://breakdance.github.io/breakdance/) 
--  [Builder](https://breakdance.github.io/breakdance/)  
--  [Factory Method](https://breakdance.github.io/breakdance/)   
--  [Abstract Factory](https://breakdance.github.io/breakdance/)  
+-  [Singleton](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Singleton)
+-  [Prototype](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Prototype) 
+-  [Builder](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Builder)  
+-  [Factory Method](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Factory)   
+-  [Abstract Factory](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/AbstractFactory)  
+
 
 
 
