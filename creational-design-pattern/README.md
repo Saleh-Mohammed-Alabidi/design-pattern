@@ -4,11 +4,11 @@ creational design patterns are design patterns that deal with object creation me
 This project is about to give hands-on implementation examples of the Gang Of Four's design patterns in Typescript.
 
 ## Creational Patterns
--  [Singleton](https://breakdance.github.io/breakdance/)
--  [Prototype](https://breakdance.github.io/breakdance/) 
--  [Builder](https://breakdance.github.io/breakdance/)  
--  [Factory Method](https://breakdance.github.io/breakdance/)   
--  [Abstract Factory](https://breakdance.github.io/breakdance/)  
+-  [Singleton](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Singleton)
+-  [Prototype](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Prototype) 
+-  [Builder](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Builder)  
+-  [Factory Method](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/Factory)   
+-  [Abstract Factory](https://github.com/Saleh-Mohammed-Alabidi/design-pattern/tree/main/creational-design-pattern/AbstractFactory)  
 
 
 
